@@ -4,6 +4,7 @@
     <summary>
         <strong><em>table of contents</em></strong>
     </summary>
+
 - [backgrounds](#backgrounds)
     - [goals](#goals)
     - [not goals](#not-goals)
